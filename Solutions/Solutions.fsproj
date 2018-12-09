@@ -4,6 +4,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Primes.fs" />
+    <Compile Include="Zip4.fs" />
     <Compile Include="Problem1.fs" />
     <Compile Include="Problem2.fs" />
     <Compile Include="Problem3.fs" />
@@ -14,5 +15,6 @@
     <Compile Include="Problem8.fs" />
     <Compile Include="Problem9.fs" />
     <Compile Include="Problem10.fs" />
+    <Compile Include="Problem11.fs" />
   </ItemGroup>
 </Project>

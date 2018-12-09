@@ -11,7 +11,8 @@ let solvers =
          Problem7.solve;
          Problem8.solve;
          Problem9.solve;
-         Problem10.solve]
+         Problem10.solve;
+         Problem11.solve]
     Seq.zip [1..funcs.Length] funcs
 
 let printSolution i f =
